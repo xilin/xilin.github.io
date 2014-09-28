@@ -14,8 +14,8 @@ author :
   name : Xi Lin
   email : linxi60@gmail.com
   github : xilin
-  twitter : username
-  feedburner : feedname
+  #twitter : username
+  #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
